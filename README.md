@@ -115,7 +115,7 @@ Business Insights
 ## Power BI Dashboard
 
 <p align="center">
-<img src="Images/PowerBI_Dashboard.jpng" width="900">
+<img src="Images/PowerBI_Dashboard.jpeg" width="900">
 </p>
 
 ---
