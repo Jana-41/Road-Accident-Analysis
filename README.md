@@ -109,13 +109,13 @@ Business Insights
 ## Excel Dashboard
 
 <p align="center">
-<img src="Images/Excel_Dashboard.png" width="900">
+<img src="Images/Excel_Dashboard.jpeg" width="900">
 </p>
 
 ## Power BI Dashboard
 
 <p align="center">
-<img src="Images/PowerBI_Dashboard.png" width="900">
+<img src="Images/PowerBI_Dashboard.jpng" width="900">
 </p>
 
 ---
